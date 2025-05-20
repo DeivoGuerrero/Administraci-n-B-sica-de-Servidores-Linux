@@ -2,11 +2,11 @@
 
 ## Habilidades clave:
 - Control de acceso. (Accesos a archivos, recursos, a usuarios para acceder al sistema)
-- Monitoreo del sistema. (Quien entra al sistema, en que momento, cuantos recursos se usan)
-- Administraciòn de recursos. (Cuanta memoria se requieren para cada servicio)
+- Monitoreo del sistema. (Quien entra al sistema, en qué momento, cuantos recursos se usan)
+- administración de recursos. (Cuanta memoria se requieren para cada servicio)
 - Troubleshooting (Arreglo de problemas, incidentes)
 - Instalación y mantenimiento de software.
-- Creaciòn de respaldos.
+- Creación de respaldos.
 - Documentación
 
 ## Roles que pueden desempeñar
@@ -22,7 +22,7 @@ Las apps y servicios siempre en funcionamiento.
 
 ### Security Operations Engineer
 Encargados de mantener la seguridad de los sistemas a nivel de red y aplicaciones.
-Servidores y sistemas sistemas.
+Servidores y sistemas.
 Hardering. Protección ante el hacking.
 
 ### Otros roles
@@ -30,8 +30,7 @@ Hardering. Protección ante el hacking.
 - Database Administrator: Gestionar servidores de uso exclusivo para bases de datos.
 - Network Operation Center Engineer: NOC Engineer, mantenimiento de los servidores en los datacenters.
 - MLOps Engineer: Sistemas de Inteligencia artifical
-- Cloud Engineer: Administrar servidores y servicios esclusivos en la nube.
-
+- Cloud Engineer: Administrar servidores y servicios exclusivos en la nube.
 
 ### Tarea
 Consultar que otros roles han evolucionado de un Sysadmin.
@@ -61,3 +60,5 @@ Roles que puede desempeñar un Administrador de Servidores Linux
 - Ingeniero de Automatización (Automation Engineer): Este rol se centra en la automatización de tareas y procesos para mejorar la eficiencia y reducir los errores. Los Ingenieros de Automatización utilizan herramientas como Ansible, Puppet y Chef para automatizar la configuración y el mantenimiento de los servidores.
 - Administrador de Contenedores (Container Administrator): Este rol implica la administración y el mantenimiento de contenedores, como Docker o Kubernetes, que se utilizan para implementar y ejecutar aplicaciones en diferentes entornos.
 - Ingeniero de Operaciones de Datos (Data Operations Engineer): Este rol se enfoca en la gestión de datos y la infraestructura relacionada, asegurando que los datos estén disponibles, sean precisos y estén protegidos. Los Ingenieros de Operaciones de Datos trabajan con tecnologías como Hadoop, Spark y MongoDB.
+
+
